@@ -1,6 +1,6 @@
 # AssurityAssessment
 
-This framework users restassured framework to call REST API (http://rest-assured.io/)
+This framework uses restassured framework to call REST API (http://rest-assured.io/)
 
 Steps to run
 1. Clone the project from github repository to your local pc
